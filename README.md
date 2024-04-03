@@ -6,12 +6,14 @@ I'm Jim Törnvall, currently persuing my Bachelor of Information Technology at [
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
-
-## Currently working on learning myself the following technologies
-![11ty](https://img.shields.io/badge/-11ty-black?style=flat-square&logo=Eleventy)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![sqlite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+## Currently working on learning myself the following technologies
+![11ty](https://img.shields.io/badge/-11ty-black?style=flat-square&logo=Eleventy)
+![GoLang](https://img.shields.io/badge/-GoLang-black?style=flat-square&logo=go)
+![GoLang](https://img.shields.io/badge/-GoLand-black?style=flat-square&logo=goland)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-black?style=flat-square&logo=cloudflare)
 ![nginx](https://img.shields.io/badge/-nginx-black?style=flat-square&logo=nginx)
 
